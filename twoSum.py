@@ -8,4 +8,5 @@ class Solution:
             d[arr[i]] = i
 
 ab = Solution()
-print(ab.twoSum([11, 7, 2, 13], 9))
+final = ab.twoSum([11, 7, 2, 13], 9)
+print(final)
