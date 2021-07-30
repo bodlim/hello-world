@@ -6,8 +6,8 @@ class Solution:
 
     def total_array(arr:List[float]) -> float:
         """Total returns the sum of xs."""
-        result: float = 0.0
-        # for each i float in arr, add it to result
+        res: float = 0.0
+        # for each i float in arr, add it to res
         for i in arr:
-            result += i
-        return result
+            res += i
+        return res
