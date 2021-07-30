@@ -9,3 +9,4 @@ class Solution:
 
 ab = Solution()
 print(ab.twoSum([11, 7, 2, 13], 9))
+print("good luck")
